@@ -1,0 +1,22 @@
+{
+  "name": "node_and_mongo",
+  "version": "1.0.0",
+  "description": "creating api with nodejs and mongodb using fastify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prash",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "fastify": "^4.27.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.0",
+    "pnpm": "^9.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.3.0"
+  }
+}
